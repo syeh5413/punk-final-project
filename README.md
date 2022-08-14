@@ -6,13 +6,7 @@
 
 ## Description
 
-We want to share our joy of data science with the Ethereum eco-system through an informative set of online courses and case studies that merge data analysis, blockchain analytics and statistical programming.
-
-We aspire to create a modular online course to help new blockchain developers understand the principles and best practices of data science. Using open data sources from across the Ethereum landscape (think StateoftheDApps, UniSwap, & Etherscan), the course will teach the topics of data munging, data visualization, exploratory data analysis, machine learning, and dabble in a bit of deep learning and artificial intelligence.  As the course grows, we intend to create case studies around how to apply data science to specific DApps (think machine learning techniques for predicting markets with Numer.ai data or analyzing traits in CryptoKitties).
-
-Our ultimate vision is to spur and inspire the next generation of developers through interesting applications of data science to emerging blockchain technologies.
-
-Gitcoin Grant Link: https://gitcoin.co/grants/562/learning-data-science-on-the-ethereum-blockchain-
+This project will compare different cryptopunk attribute data with sales data. 
 
 ## [Course Outline](https://youtu.be/R0mFo1bPxCc?list=PLaiSf_XWcFZUPa6d__SO3AtQudEjmE8TX)
 
